@@ -1,0 +1,8 @@
+20:00:25.450 [main] INFO  api.test.UsersTests - *************Creating user******************
+20:00:29.167 [main] INFO  api.test.UsersTests - *************User is created******************
+20:00:29.184 [main] INFO  api.test.UsersTests - *************Reading user******************
+20:00:30.415 [main] INFO  api.test.UsersTests - *************User info is read******************
+01:10:19.947 [main] INFO  api.test.UsersTests - *************Creating user******************
+01:10:23.503 [main] INFO  api.test.UsersTests - *************User is created******************
+01:10:23.520 [main] INFO  api.test.UsersTests - *************Reading user******************
+01:10:24.982 [main] INFO  api.test.UsersTests - *************User info is read******************
